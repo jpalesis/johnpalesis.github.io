@@ -1,6 +1,9 @@
 
 ## Welcome to the Christophoros Palesis Homepage
 
+###This website will evolve as more and more of the Palesis poetry is published.  Please bookmark this page and come back soon to see what's new.
+
+
 You can use the [editor on GitHub](https://github.com/johnpalesis/johnpalesis.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
