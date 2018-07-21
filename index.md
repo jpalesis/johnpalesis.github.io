@@ -1,5 +1,5 @@
 
-# Welcome to the Christophoros Palesis Homepage
+# Welcome to the Christophoros Palesis (Paleshis) Homepage
 
 ### While we are building this site, we invite you to visit and like our Facebook Page at https://www.facebook.com/paleshis where you will learn more about the poetry of Palesis and share  your thoughts and feelings with the other friends of the page so that, together, we can build a pleasant poetic community.
 
